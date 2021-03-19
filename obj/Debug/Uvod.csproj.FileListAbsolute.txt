@@ -1,0 +1,14 @@
+C:\Users\Daniel Mareš\Desktop\Programy\Uvod\bin\Debug\Uvod.exe.config
+C:\Users\Daniel Mareš\Desktop\Programy\Uvod\bin\Debug\Uvod.exe
+C:\Users\Daniel Mareš\Desktop\Programy\Uvod\bin\Debug\Uvod.pdb
+C:\Users\Daniel Mareš\Desktop\Programy\Uvod\obj\Debug\Uvod.csprojAssemblyReference.cache
+C:\Users\Daniel Mareš\Desktop\Programy\Uvod\obj\Debug\MainWindow.g.cs
+C:\Users\Daniel Mareš\Desktop\Programy\Uvod\obj\Debug\App.g.cs
+C:\Users\Daniel Mareš\Desktop\Programy\Uvod\obj\Debug\Uvod_MarkupCompile.cache
+C:\Users\Daniel Mareš\Desktop\Programy\Uvod\obj\Debug\Uvod_MarkupCompile.lref
+C:\Users\Daniel Mareš\Desktop\Programy\Uvod\obj\Debug\MainWindow.baml
+C:\Users\Daniel Mareš\Desktop\Programy\Uvod\obj\Debug\Uvod.g.resources
+C:\Users\Daniel Mareš\Desktop\Programy\Uvod\obj\Debug\Uvod.Properties.Resources.resources
+C:\Users\Daniel Mareš\Desktop\Programy\Uvod\obj\Debug\Uvod.csproj.GenerateResource.cache
+C:\Users\Daniel Mareš\Desktop\Programy\Uvod\obj\Debug\Uvod.exe
+C:\Users\Daniel Mareš\Desktop\Programy\Uvod\obj\Debug\Uvod.pdb
